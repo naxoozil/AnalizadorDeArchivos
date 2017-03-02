@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AnalizadorAccesosAServidor()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AnalizadorAccesosAServidor\r\n
+comment1.params=nombreArchivoALeer
+comment1.target=void\ analizarArchivoDeLog(java.lang.String)
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=int\ obtenerHoraMasAccesos()
+comment2.text=\r\n\ \ \r\n
+numComments=3
